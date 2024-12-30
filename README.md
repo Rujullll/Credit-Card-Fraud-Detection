@@ -44,15 +44,7 @@ Credit-Card-Fraud-Detection
 
 <h2>Conclusion</h2>
         <p>The project demonstrates a robust approach to detecting credit card fraud using machine learning techniques. Handling class imbalance and tuning model parameters played a critical role in achieving high performance.</p>
-
-<h2>Future Improvements</h2>
-        <ul>
-            <li>Experiment with other algorithms like Gradient Boosting or XGBoost.</li>
-            <li>Apply feature engineering to derive new insights.</li>
-            <li>Use ensemble techniques to improve model robustness.</li>
-        </ul>
-
-      
+        
 
 </body>
 </html>
