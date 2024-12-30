@@ -3,7 +3,7 @@ Credit-Card-Fraud-Detection
 <h2>Task Objectives</h2>
         <p>The objective of this task is to build a machine learning model that detects fraudulent credit card transactions. Using a dataset of transaction details, the model predicts whether a transaction is fraudulent or legitimate. Key elements include handling class imbalance, data preprocessing, and the application of classification algorithms.</p>
 
-h2>Approach</h2>
+<h2>Approach</h2>
         <ol>
             <li><strong>Data Preprocessing:</strong>
                 <ul>
