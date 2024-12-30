@@ -1,52 +1,9 @@
-# Credit-Card-Fraud-Detection
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Credit Card Fraud Detection - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 20px;
-            background: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #444;
-        }
-        code {
-            background: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-            color: #c7254e;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border-radius: 3px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
+Credit-Card-Fraud-Detection
         <h1>Credit Card Fraud Detection</h1>
-
-        <h2>Task Objectives</h2>
+<h2>Task Objectives</h2>
         <p>The objective of this task is to build a machine learning model that detects fraudulent credit card transactions. Using a dataset of transaction details, the model predicts whether a transaction is fraudulent or legitimate. Key elements include handling class imbalance, data preprocessing, and the application of classification algorithms.</p>
 
-        <h2>Approach</h2>
+h2>Approach</h2>
         <ol>
             <li><strong>Data Preprocessing:</strong>
                 <ul>
@@ -69,19 +26,19 @@
             </li>
         </ol>
 
-        <h2>Challenges Faced</h2>
+<h2>Challenges Faced</h2>
         <ul>
             <li><strong>Class Imbalance:</strong> The dataset contained a significant imbalance between fraudulent and legitimate transactions. Addressed using SMOTE to oversample the minority class.</li>
             <li><strong>Feature Selection:</strong> Ensured irrelevant features were removed to optimize model performance.</li>
         </ul>
 
-        <h2>Results</h2>
+<h2>Results</h2>
         <ul>
             <li><strong>Confusion Matrix:</strong> Provided insights into true positives, false positives, true negatives, and false negatives.</li>
             <li><strong>Classification Report:</strong> Achieved high precision and recall for fraudulent transaction detection.</li>
         </ul>
 
-        <h2>How to Run the Code</h2>
+<h2>How to Run the Code</h2>
         <ol>
             <li><strong>Prerequisites:</strong>
                 <ul>
@@ -100,13 +57,13 @@
             <li><strong>Dataset:</strong> Download the dataset from <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud">Kaggle</a>.</li>
         </ol>
 
-        <h2>Results Achieved</h2>
+<h2>Results Achieved</h2>
         <p>The model successfully identified fraudulent transactions with high accuracy. Precision, Recall, and F1-score ensured a balance between false positives and negatives.</p>
 
-        <h2>Conclusion</h2>
+<h2>Conclusion</h2>
         <p>The project demonstrates a robust approach to detecting credit card fraud using machine learning techniques. Handling class imbalance and tuning model parameters played a critical role in achieving high performance.</p>
 
-        <h2>Future Improvements</h2>
+<h2>Future Improvements</h2>
         <ul>
             <li>Experiment with other algorithms like Gradient Boosting or XGBoost.</li>
             <li>Apply feature engineering to derive new insights.</li>
@@ -114,7 +71,7 @@
         </ul>
 
       
-    </div>
+
 </body>
 </html>
 
