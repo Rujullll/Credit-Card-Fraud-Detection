@@ -38,24 +38,6 @@ Credit-Card-Fraud-Detection
             <li><strong>Classification Report:</strong> Achieved high precision and recall for fraudulent transaction detection.</li>
         </ul>
 
-<h2>How to Run the Code</h2>
-        <ol>
-            <li><strong>Prerequisites:</strong>
-                <ul>
-                    <li>Python 3.7 or higher.</li>
-                    <li>Libraries: <code>pandas</code>, <code>numpy</code>, <code>scikit-learn</code>, <code>imblearn</code>.</li>
-                </ul>
-            </li>
-            <li><strong>Steps:</strong>
-                <ul>
-                    <li>Clone the repository.</li>
-                    <li>Install required libraries using <code>pip install -r requirements.txt</code>.</li>
-                    <li>Place the dataset (<code>creditcard.csv</code>) in the working directory.</li>
-                    <li>Run the script using <code>python fraud_detection.py</code>.</li>
-                </ul>
-            </li>
-            <li><strong>Dataset:</strong> Download the dataset from <a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud">Kaggle</a>.</li>
-        </ol>
 
 <h2>Results Achieved</h2>
         <p>The model successfully identified fraudulent transactions with high accuracy. Precision, Recall, and F1-score ensured a balance between false positives and negatives.</p>
